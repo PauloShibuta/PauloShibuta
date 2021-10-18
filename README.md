@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PauloShibuta
-- 👀 I’m interested in desenvolvimento de sistenas
+- 👀 I’m interested in desenvolvimento de siste
 - 🌱 I’m currently learning  Python
 - 💞️ I’m looking to collaborate on  Projeto Integrador da Turma de Engenharia da Computação da Univesp
 - 📫 How to reach me  em : pshibuta@hotmail.com
