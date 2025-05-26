@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PauloShibuta
-- 👀 I’m interested in desenvolvimento de siste
-- 🌱 I’m currently learning  Python
-- 💞️ I’m looking to collaborate on  Projeto Integrador da Turma de Engenharia da Computação da Univesp
+- 👀 I’m interested in desenvolvimento de sistemas
+- 📝 I’m currently learning JavaScript / CSS / SQL
+- ⚙ I’m developing systems for several companies
 - 📫 How to reach me  em : pshibuta@hotmail.com
 
 <!---
